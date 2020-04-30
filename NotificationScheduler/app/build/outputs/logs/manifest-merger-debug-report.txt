@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\bf258720e095d400f815c1237b14ea70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-2\files-2.1\29c8194f1a52bc36fd067282e7342c23\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\83b716e436b75cf1583a12292151904a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\8d984f5b6d25063d5b858033d84f08b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\bde806595095d5c77aab26b15bbff026\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\f6a01f86978e13131783111fdc9ab8b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\c3d6f3e64a706d2167eea147c9012c79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\7b12f96ba33339ededdf6c65b3e38f9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\317e2a5b40477ea9bb0a4872b3582699\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\b3378358f592ea6a01d8d1ddddf53f5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\6deba717f41cb0aa46ba83e69ca89a44\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\a905b98aad68f2ee24c50c1df418e9a6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\bce904376aa5b1dac2135dbae4d8fe98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\c9b547b091a9bde60cb52c0d02f3aa70\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\e13ee63ee239b15f464225a746912afa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\fb1aae16d4b90a091a77bf2b80b1ebfa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\97231bb5ef26ab106c79421a4a773d0b\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\626634677c6657b22472f3ae96910dc9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\01fc789ac4e935c8f94e7b2862f4a140\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\7ed6cfee591d4ca3965a10f538f13708\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\52995f91ef9283a1f09bd15627c67e9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\c1e4b69bb6e604a238e75888a2bfdf23\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\0207f1a18d67b789d924e486ef248442\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\981a94c483d5f5991dce438ed7bd809c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\eb45b20dde2725bd8398aacefa435883\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\90693e85f35a033e692794d62e7f3c5e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\ec845a230e3e6229e85cf5c772ed590c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:4:5-48
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-2\files-2.1\29c8194f1a52bc36fd067282e7342c23\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-2\files-2.1\29c8194f1a52bc36fd067282e7342c23\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\fb1aae16d4b90a091a77bf2b80b1ebfa\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\fb1aae16d4b90a091a77bf2b80b1ebfa\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\97231bb5ef26ab106c79421a4a773d0b\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\97231bb5ef26ab106c79421a4a773d0b\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\fb1aae16d4b90a091a77bf2b80b1ebfa\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:9:9-41
+	tools:ignore
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:13:9-48
+	android:roundIcon
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:12:9-40
+service#com.example.notificationscheduler.NotificationJobService
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:14:9-16:72
+	android:permission
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:16:13-69
+	android:name
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:15:13-84
+activity#com.example.notificationscheduler.MainActivity
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:17:19-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\bf258720e095d400f815c1237b14ea70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\bf258720e095d400f815c1237b14ea70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-2\files-2.1\29c8194f1a52bc36fd067282e7342c23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Gradle\caches\transforms-2\files-2.1\29c8194f1a52bc36fd067282e7342c23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\83b716e436b75cf1583a12292151904a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\83b716e436b75cf1583a12292151904a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\8d984f5b6d25063d5b858033d84f08b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\8d984f5b6d25063d5b858033d84f08b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\bde806595095d5c77aab26b15bbff026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\bde806595095d5c77aab26b15bbff026\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\f6a01f86978e13131783111fdc9ab8b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\f6a01f86978e13131783111fdc9ab8b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\c3d6f3e64a706d2167eea147c9012c79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\c3d6f3e64a706d2167eea147c9012c79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\7b12f96ba33339ededdf6c65b3e38f9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\7b12f96ba33339ededdf6c65b3e38f9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\317e2a5b40477ea9bb0a4872b3582699\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\317e2a5b40477ea9bb0a4872b3582699\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\b3378358f592ea6a01d8d1ddddf53f5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\b3378358f592ea6a01d8d1ddddf53f5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\6deba717f41cb0aa46ba83e69ca89a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\6deba717f41cb0aa46ba83e69ca89a44\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\a905b98aad68f2ee24c50c1df418e9a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\a905b98aad68f2ee24c50c1df418e9a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\bce904376aa5b1dac2135dbae4d8fe98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\bce904376aa5b1dac2135dbae4d8fe98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\c9b547b091a9bde60cb52c0d02f3aa70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\c9b547b091a9bde60cb52c0d02f3aa70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\e13ee63ee239b15f464225a746912afa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\e13ee63ee239b15f464225a746912afa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\fb1aae16d4b90a091a77bf2b80b1ebfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\fb1aae16d4b90a091a77bf2b80b1ebfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\97231bb5ef26ab106c79421a4a773d0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\97231bb5ef26ab106c79421a4a773d0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\626634677c6657b22472f3ae96910dc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\626634677c6657b22472f3ae96910dc9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\01fc789ac4e935c8f94e7b2862f4a140\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\01fc789ac4e935c8f94e7b2862f4a140\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\7ed6cfee591d4ca3965a10f538f13708\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\7ed6cfee591d4ca3965a10f538f13708\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\52995f91ef9283a1f09bd15627c67e9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\52995f91ef9283a1f09bd15627c67e9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\c1e4b69bb6e604a238e75888a2bfdf23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\c1e4b69bb6e604a238e75888a2bfdf23\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\0207f1a18d67b789d924e486ef248442\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\0207f1a18d67b789d924e486ef248442\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\981a94c483d5f5991dce438ed7bd809c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\981a94c483d5f5991dce438ed7bd809c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\eb45b20dde2725bd8398aacefa435883\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\eb45b20dde2725bd8398aacefa435883\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\90693e85f35a033e692794d62e7f3c5e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Gradle\caches\transforms-2\files-2.1\90693e85f35a033e692794d62e7f3c5e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\ec845a230e3e6229e85cf5c772ed590c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Gradle\caches\transforms-2\files-2.1\ec845a230e3e6229e85cf5c772ed590c\AndroidManifest.xml:20:5-44
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+		ADDED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
+		INJECTED from D:\POLBAN\Semester 4\Mobile\Codelabs\8.3_JobScheduler\NotificationScheduler\app\src\main\AndroidManifest.xml
